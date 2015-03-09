@@ -17,4 +17,4 @@ For day 2 we are to take photos of our choosen site
 [LINK](https://github.com/jentery/facades/blob/master/index.md)
 
 ##Work in Progress
-![IMAGE](C:\Users\User\Pictures.Day 1.jpg)
+![IMAGE](https://github.com/KilluaHxH/Catalyst/blob/master/photos/Day%201.JPG?raw=true)
