@@ -38,7 +38,8 @@ For day 2 we are to take photos of our choosen site
 
 PROMPT: How compelling is computer vision on a spectrum of speculation and representation:
 
-PRACTICAL QUESTION:
-SURFACE TYPES: stone, transparent glass, reflective glass, sculptural, flat, texture, natural, pattern, text
-WRAPPER TYPES: 
-VISION INTERPRETION: new textures (from workflow), glitches, bubbles, stitches, deforms, warped, 
+*PRACTICAL QUESTION:
+*SURFACE TYPES: stone, transparent glass, reflective glass, sculptural, flat, texture, natural, pattern, text
+*WRAPPER TYPES: 
+*VISION INTERPRETION: new textures (from workflow), glitches, bubbles, stitches, deforms, warped, 
+
