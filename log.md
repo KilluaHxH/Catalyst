@@ -52,26 +52,25 @@ PROMPT: How compelling is computer vision on a spectrum of speculation and repre
 * Spectrum of representation + speculation?
 * What new insights into facades can CV give us?
 
---- expressing traversals
---- designing for affordances (actions, relations)
---- expressing how humans and computers understand space together
---- the affordances of space (not just objects)
---- enable the dulication of orientation
---- blurring boundaries between nature and artifice
---- movement as form of space
+* --- expressing traversals
+* --- designing for affordances (actions, relations)
+* --- expressing how humans and computers understand space together
+* --- the affordances of space (not just objects)
+* --- enable the dulication of orientation
+* --- blurring boundaries between nature and artifice
+* --- movement as form of space
 
 ###FOCUS
 
-&&& traversal 
-&&& affordance (of space)
-&&& blur + equality
-&&& duplication (of ornamentation)
+* &&& traversal 
+* &&& affordance (of space)
+* &&& blur + equality
+* &&& duplication (of ornamentation)
 
 * What are the main ideas driving your work?
 * Relationship between you and computer in design? (dragging design)
-* What role does movement play in process? To what extent are the models about movement? About vishion?
+* What role does movement play in process? To what extent are the models about movement? About vision?
 * Collage in 3D? Attention to ronament?
 * How to express a variety of traversals?
 * How to understand movement through space around you (wher body is not the objext)?
 * Are we modelling affordances? Actions?
-* 
