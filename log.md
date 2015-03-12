@@ -43,6 +43,10 @@ PROMPT: How compelling is computer vision on a spectrum of speculation and repre
 * WRAPPER TYPES: 
 * VISION INTERPRETION: new textures (from workflow), glitches, bubbles, stitches, deforms, warped, 
 
+##03-11-2015 Day 3
+
+![IMAGE](https://github.com/KilluaHxH/Catalyst/blob/master/photos/Day%203.JPG?raw=true)
+
 ##03-12-2015 Day 4
 * Why build a model?
 * Spectrum of representation + speculation?
